@@ -4,6 +4,7 @@ body{
 }
 #header{
     display: flex;
+    
  
   
 }
@@ -28,3 +29,20 @@ h1{
  .header-part img{
     width: 120%;
  }
+ #dream-area{
+     display: flex;
+    
+ }
+ 
+ .dream-areapart{
+     width: 50%;
+     padding-right: 15%;
+ }
+ .link1{
+    background-image: linear-gradient(red,yellow);
+    padding: 10px 40px;
+    text-decoration: none;
+    border-radius: 15px;}
+
+    
+    
